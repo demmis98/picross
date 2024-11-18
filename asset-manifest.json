@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/picross/static/css/main.dbc78b65.css",
+    "main.js": "/picross/static/js/main.3db8529f.js",
+    "static/js/453.3d51e6ee.chunk.js": "/picross/static/js/453.3d51e6ee.chunk.js",
+    "index.html": "/picross/index.html",
+    "main.dbc78b65.css.map": "/picross/static/css/main.dbc78b65.css.map",
+    "main.3db8529f.js.map": "/picross/static/js/main.3db8529f.js.map",
+    "453.3d51e6ee.chunk.js.map": "/picross/static/js/453.3d51e6ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc78b65.css",
+    "static/js/main.3db8529f.js"
+  ]
+}
