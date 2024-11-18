@@ -1,0 +1,26 @@
+.App{
+  text-align: center;
+}
+
+.picross_table{
+  border: 2px;
+}
+
+.cell_clear, .cell_hit, .cell_miss{
+  width: 15px;
+  height: 15px;
+  border-radius: 2px;
+  border-color: black;
+}
+
+.cell_hit {
+  background-color: black
+}
+
+.cell_clear {
+  background-color: white
+}
+
+.cell_miss {
+  background-color: red;
+}
